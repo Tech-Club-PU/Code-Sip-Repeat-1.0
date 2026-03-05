@@ -1,6 +1,3 @@
-# F. Will Grish Go Broke Again?
-
-```jsx
 #include <iostream>
 using namespace std;
 
@@ -28,4 +25,3 @@ int main() {
 
     return 0;
 }
-```

@@ -1,6 +1,3 @@
-# G. Kal Ho Na Ho
-
-```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -59,4 +56,3 @@ int main() {
 
     return 0;
 }
-```

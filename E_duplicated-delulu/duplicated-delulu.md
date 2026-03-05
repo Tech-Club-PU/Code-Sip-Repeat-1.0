@@ -1,5 +1,3 @@
-# E. Duplicated Delulu
-
 Easy: 50
 
 ## Problem

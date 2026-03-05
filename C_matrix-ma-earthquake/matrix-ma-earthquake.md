@@ -1,5 +1,3 @@
-# C. Matrix Ma Earthquake
-
 Easy: 30
 
 You are given a square matrix of size **N × N**.

@@ -1,5 +1,3 @@
-# G. Kal Ho Na Ho
-
 Medium: 80
 
 At Pokhara University, students created their own version of Conway’s Game of Life and named it **PU Game of Life**.

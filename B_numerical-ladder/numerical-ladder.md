@@ -1,5 +1,3 @@
-# B. Numerical Ladder
-
 Easy: 30
 
 You are given an integer **N**.

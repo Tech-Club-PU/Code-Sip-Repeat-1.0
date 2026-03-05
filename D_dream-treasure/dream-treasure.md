@@ -1,5 +1,3 @@
-# D. Dream Treasure
-
 Easy: 50
 
 ## Problem: *The Dream Treasure*

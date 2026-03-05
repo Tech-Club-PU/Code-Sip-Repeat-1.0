@@ -1,5 +1,3 @@
-# A. Take the Input
-
 Easy: 30
 
 ## C
