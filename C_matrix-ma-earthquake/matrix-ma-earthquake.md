@@ -1,5 +1,3 @@
-Easy: 30
-
 You are given a square matrix of size **N × N**.
 
 Originally, the matrix was perfectly arranged.

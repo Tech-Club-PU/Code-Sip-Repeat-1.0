@@ -1,5 +1,3 @@
-Medium: 80
-
 Grish takes his best friend to the most famous coffee house in Tanahun.
 
 The coffee house offers the following menu:

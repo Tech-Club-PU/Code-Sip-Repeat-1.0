@@ -1,5 +1,3 @@
-Easy: 50
-
 ## Problem
 
 Ansarul is obsessed with collecting numbers.

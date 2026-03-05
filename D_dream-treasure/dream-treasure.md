@@ -1,5 +1,3 @@
-Easy: 50
-
 ## Problem: *The Dream Treasure*
 
 Sneha’s grandfather was known for hiding valuable treasures using clever puzzles.

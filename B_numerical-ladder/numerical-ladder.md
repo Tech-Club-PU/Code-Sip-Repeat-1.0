@@ -1,5 +1,3 @@
-Easy: 30
-
 You are given an integer **N**.
 
 Print a staircase pattern of continuous increasing numbers, starting from `1`.
